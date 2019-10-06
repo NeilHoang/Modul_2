@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24091c8f-8285-40cf-9acb-740bd3acf03b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Session_3/Class_stopwatch/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_3/Class_stopwatch/stopwatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_3/Class_Fan/Fan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_3/Class_Fan/class_fan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/Square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_4/class_Circle_Cylinder/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_4/class_Circle_Cylinder/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_4/class_Circle_Cylinder/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_4/class_point-2d_and_class_point-3d/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_4/class_point-2d_and_class_point-3d/point2D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_4/class_point-2d_and_class_point-3d/point3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_4/class_point_and_movablePoint/MoveablePoint.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_4/class_point_and_movablePoint/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_4/class_point_and_movablePoint/point.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_3/Class_stopwatch/stopwatch.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +96,9 @@
       <workItem from="1569915629870" duration="20794000" />
       <workItem from="1569978183747" duration="18868000" />
       <workItem from="1570032697922" duration="1338000" />
-      <workItem from="1570034778623" duration="18637000" />
+      <workItem from="1570034778623" duration="19060000" />
+      <workItem from="1570170775623" duration="1198000" />
+      <workItem from="1570373008532" duration="5519000" />
     </task>
     <servers />
   </component>
