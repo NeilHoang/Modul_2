@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24091c8f-8285-40cf-9acb-740bd3acf03b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Session_3/Class_stopwatch/stopwatchjavascript.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session_3/Class_stopwatch/stopwatch.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_3/Class_stopwatch/stopwatch.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Session_3/Tính số tuổi/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_3/Tính số tuổi/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session_4/class_Circle_Cylinder/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_4/class_Circle_Cylinder/Cylinder.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +81,8 @@
       <workItem from="1570034778623" duration="19060000" />
       <workItem from="1570170775623" duration="1198000" />
       <workItem from="1570373008532" duration="6100000" />
-      <workItem from="1570409971912" duration="10365000" />
+      <workItem from="1570409971912" duration="10551000" />
+      <workItem from="1570453609120" duration="5018000" />
     </task>
     <servers />
   </component>
