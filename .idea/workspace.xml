@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24091c8f-8285-40cf-9acb-740bd3acf03b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Session_3/Class_stopwatch/stopwatch.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/AbstractAndInterfaceTests.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/AbstractClass/Animal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/AbstractClass/Fruit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/Animals/Chicken.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/Animals/Tiger.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/Fruits/Apple.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/Fruits/Orange.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/InterfaceClass/Edible.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_3/Tính số tuổi/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_5/triển khai interface 'Comparator' để so sánh các lớp hình học/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_5/triển khai interface 'Comparator' để so sánh các lớp hình học/Comparable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_5/triển khai interface 'Comparator' để so sánh các lớp hình học/ComparableCircle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_5/triển khai interface 'Comparator' để so sánh các lớp hình học/ComparableCircleMain.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_3/Class_stopwatch/stopwatch.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_3/Class_stopwatch/stopwatch.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +86,7 @@
       <workItem from="1570034778623" duration="19060000" />
       <workItem from="1570170775623" duration="1198000" />
       <workItem from="1570373008532" duration="6100000" />
-      <workItem from="1570409971912" duration="865000" />
+      <workItem from="1570409971912" duration="7941000" />
     </task>
     <servers />
   </component>
