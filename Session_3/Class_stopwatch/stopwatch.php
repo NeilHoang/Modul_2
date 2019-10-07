@@ -5,15 +5,14 @@ class StopWatch
     private $startTime;
     private $endTime;
     
-    function __construct()
+    public function setEndTime($endTime)
     {
-        $this->startTime;
-        $this->endTime;
+        $this->endTime = $endTime;
     }
     
-    public function getStartTime()
+    public function setStartTime($startTime)
     {
-        return $this->startTime;
+        $this->startTime = $startTime;
     }
     
     public function getEndTime()
@@ -21,25 +20,29 @@ class StopWatch
         return $this->endTime;
     }
     
+    public function getStartTime()
+    {
+        return $this->startTime;
+    }
+    
     public function start()
     {
-        $this->startTime = date("Y-M-d-h:i:s");
+        $this->startTime = microtime(true);
     }
     
     public function end()
     {
-        $this->endTime = date("Y-M-d-H:i:s");
+        $this->endTime = microtime(true);
     }
     
-    public function getElapsedTime()
+    function getElapsedTime()
     {
-        $this->startTime = date_parse_from_format('Y-M-d-H:i:s', $this->startTime);
-        $time_stamp = mktime($this->endTime['hour'], $this->endTime['minute'], $this->endTime['second'], $this->endTime['month']
-            , $this->endTime['day'], $this->endTime['year']);
-        echo $time_stamp . "<br>";
-        echo $this->endTime;
-        return ($this->end() - $time_stamp);
+        return $this->getEndTime() - $this->getStartTime();
     }
 }
-$objStopWatch = new StopWatch();
-echo $objStopWatch->getElapsedTime();
+
+$objWatch = new StopWatch();
+$objWatch->start();
+usleep(250000);//nghi
+$objWatch->end();
+echo $objWatch->getElapsedTime();
