@@ -45,7 +45,7 @@
     <form action="" method="get">
         <div class="container">
             <h1 class="title">Năm Sinh</h1>
-            <h3>Nhập năm sinh: <input type="text" class="myButton" placeholder="dd-mm-yyy" name="birthday">
+            <h3>Nhập năm sinh: <input type="date" class="myButton" placeholder="dd-mm-yyy" name="birthday">
                 <input type="submit" class="myButtons" value="Tính"><br><br>
         </div>
         <?php
@@ -60,13 +60,15 @@
 //            var_dump(isset($_GET["birthday"]));
                 $today = date("Y-m-d");
                 $diff = date_diff(date_create($dateOfBirth), date_create($today));
-                echo 'Tuổi của bạn là -> ' . $diff->format('%y') . "<br>";
-                echo 'Số ngày bạn đã tồn tại 😌😌 -> ' . $diff->format('%R%a days');
+                $day=$diff->format("%a");
+                echo 'Tuổi của bạn là -> ' . $diff->format('%y') . "<br><br>";
+                echo "Số tuần bạn đã tồn tại là -> " .floor($day/7) . "<br>";
+                echo 'Số ngày bạn đã tồn tại 😌😌 -> ' .$day. "<br>";
             } else {
                 echo "Không được để trống ô 'Nhập năm sinh' ";
             }
         ?>
-    </form>
+    </form> 
 </center>
 </body>
 </html>
