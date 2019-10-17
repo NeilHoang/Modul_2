@@ -2,8 +2,163 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24091c8f-8285-40cf-9acb-740bd3acf03b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Session_5/Resizeable/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_5/Resizeable/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_5/Resizeable/Resizeable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_5/Resizeable/Square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_5/Resizeable/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_6 Cấu trúc dữ liệu và giải thuật cơ bản/Implement_the_methods_of_ArrayList/MyList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_6 Cấu trúc dữ liệu và giải thuật cơ bản/Implement_the_methods_of_ArrayList/MyListTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_6 Cấu trúc dữ liệu và giải thuật cơ bản/Implement_the_methods_of_ArrayList/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_6 Cấu trúc dữ liệu và giải thuật cơ bản/Simple_LinkedList_class_implementation/Linklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_6 Cấu trúc dữ liệu và giải thuật cơ bản/Simple_LinkedList_class_implementation/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_6 Cấu trúc dữ liệu và giải thuật cơ bản/Simple_LinkedList_class_implementation/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_7 Clean Code &amp; Refactoring/Refactoring/php-cleancode-refactoring-variable-extraction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/buihoang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/buihoang.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hello-php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hello-php.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/Application_Calculator/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/Application_Calculator/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/Application_money/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/Application_money/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/Calculator_Advanced/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/Calculator_Advanced/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/Dictionary_application/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/Dictionary_application/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/Display_customer_list/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/Display_customer_list/images/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/Display_customer_list/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/Display_customer_list/images/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/Display_customer_list/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/Display_customer_list/images/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/Display_customer_list/images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/Display_customer_list/images/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/Display_customer_list/images/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/Display_customer_list/images/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/Display_customer_list/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/Display_customer_list/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/Future_Calculator/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/Future_Calculator/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/Hienthihinh/rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/Hienthihinh/rectangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/Hienthihinh/right_triangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/Hienthihinh/right_triangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/Hienthihinh/triangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/Hienthihinh/triangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/Login_function/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/Login_function/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/number_into_words/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/number_into_words/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/product_discount/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/product_discount/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/product_discount2/display_discount.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/product_discount2/display_discount.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/product_discount2/product.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/product_discount2/product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/product_discount2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/product_discount2/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_1/server_time/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_1/server_time/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/Count_number/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/Count_number/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/Create_layout_for_web_page/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/Create_layout_for_web_page/content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/Create_layout_for_web_page/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/Create_layout_for_web_page/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/Create_layout_for_web_page/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/Create_layout_for_web_page/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/Create_layout_for_web_page/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/Create_layout_for_web_page/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/Create_layout_for_web_page/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/Create_layout_for_web_page/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/Create_layout_for_web_page/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/Create_layout_for_web_page/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/Filter_customer_lists/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/Filter_customer_lists/images/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/Filter_customer_lists/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/Filter_customer_lists/images/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/Filter_customer_lists/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/Filter_customer_lists/images/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/Filter_customer_lists/images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/Filter_customer_lists/images/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/Filter_customer_lists/images/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/Filter_customer_lists/images/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/Filter_customer_lists/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/Filter_customer_lists/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/Filter_customer_lists/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/Filter_customer_lists/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/Find_the_largest_element/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/Find_the_largest_element/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/Find_the_smallest_value/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/Find_the_smallest_value/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/User_registration_page/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/User_registration_page/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/User_registration_page/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/User_registration_page/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/User_registration_page/index3.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/User_registration_page/index3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/delete_array/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/delete_array/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/practice_using_try-catch/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/practice_using_try-catch/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_2/practice_using_try-catch/php.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_2/practice_using_try-catch/php.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_3/Class_Fan/Fan.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_3/Class_Fan/Fan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_3/Class_Fan/class_fan.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_3/Class_Fan/class_fan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_3/Class_stopwatch/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_3/Class_stopwatch/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_3/Class_stopwatch/stopwatch.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_3/Class_stopwatch/stopwatch.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_3/Class_stopwatch/stopwatchjavascript.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_3/Class_stopwatch/stopwatchjavascript.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_3/QuadraticEquation/getvalue.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_3/QuadraticEquation/getvalue.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_3/QuadraticEquation/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_3/QuadraticEquation/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_3/QuadraticEquation/quadracticEquation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_3/QuadraticEquation/quadracticEquation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_3/Rectangular_layer/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_3/Rectangular_layer/Rectangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_3/Rectangular_layer/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_3/Rectangular_layer/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Session_3/Tính số tuổi/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_3/Tính số tuổi/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/Circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/Rectangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/Shape.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/Shape.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/Square.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/Square.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_4/System_of_geometric_objects/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_4/class_Circle_Cylinder/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_4/class_Circle_Cylinder/Circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_4/class_Circle_Cylinder/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_4/class_Circle_Cylinder/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_4/class_Circle_Cylinder/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_4/class_Circle_Cylinder/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_4/class_point-2d_and_class_point-3d/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_4/class_point-2d_and_class_point-3d/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_4/class_point-2d_and_class_point-3d/point2D.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_4/class_point-2d_and_class_point-3d/point2D.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_4/class_point-2d_and_class_point-3d/point3D.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_4/class_point-2d_and_class_point-3d/point3D.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_4/class_point_and_movablePoint/MoveablePoint.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_4/class_point_and_movablePoint/MoveablePoint.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_4/class_point_and_movablePoint/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_4/class_point_and_movablePoint/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_4/class_point_and_movablePoint/point.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_4/class_point_and_movablePoint/point.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/AbstractAndInterfaceTests.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/AbstractAndInterfaceTests.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/AbstractClass/Animal.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/AbstractClass/Animal.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/AbstractClass/Fruit.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/AbstractClass/Fruit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/Animals/Chicken.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/Animals/Chicken.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/Animals/Tiger.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/Animals/Tiger.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/Fruits/Apple.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/Fruits/Apple.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/Fruits/Orange.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/Fruits/Orange.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/InterfaceClass/Edible.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/Animal class and Edible interface/InterfaceClass/Edible.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/Comparable/Comparable.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/Comparable/Comparable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/Comparable/ComparableCircle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/Comparable/ComparableCircle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/Comparable/Cricle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/Comparable/Cricle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/Comparable/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/Comparable/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/Comparator/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/Comparator/Circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/Comparator/Comparable.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/Comparator/Comparable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/Comparator/ComparableCircle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/Comparator/ComparableCircle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/Comparator/ComparableCircleMain.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/Comparator/ComparableCircleMain.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/colorable/Colorable.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/colorable/Colorable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/colorable/Square.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/colorable/Square.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_5/colorable/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_5/colorable/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_6 Cấu trúc dữ liệu và giải thuật cơ bản/Simple_List_class_implementation/ArrayList.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_6 Cấu trúc dữ liệu và giải thuật cơ bản/Simple_List_class_implementation/ArrayList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_6 Cấu trúc dữ liệu và giải thuật cơ bản/Simple_List_class_implementation/ArrayListTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_6 Cấu trúc dữ liệu và giải thuật cơ bản/Simple_List_class_implementation/ArrayListTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_7 Clean Code &amp; Refactoring/Refactoring/php-cleancode-refactoring-variable-extraction/FizzBuzz.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_7 Clean Code &amp; Refactoring/Refactoring/php-cleancode-refactoring-variable-extraction/FizzBuzz.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_7 Clean Code &amp; Refactoring/Refactoring/php-cleancode-refactoring-variable-extraction/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Session_7 Clean Code &amp; Refactoring/Refactoring/php-cleancode-refactoring-variable-extraction/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_7 Clean Code &amp; Refactoring/php-cleancode-refactoring-renaming/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Session_7 Clean Code &amp; Refactoring/php-cleancode-refactoring-renaming/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_7 Clean Code &amp; Refactoring/php-cleancode-refactoring-renaming/src/Calculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session_7 Clean Code &amp; Refactoring/php-cleancode-refactoring-renaming/src/Calculator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud_manager/Student.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud_manager/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud_manager/getValue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud_manager/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud_manager/manager/ManagerStudent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud_manager/manager/crud.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud_manager/manager/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud_manager/manager/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud_manager/manager/edit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud_manager/manager/editForm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud_manager/manager/list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud_manager/manager/loadData.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/CRUD/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/CRUD/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/CRUD/Anh-tuyet-dep-ve-nam-it-nguoi-biet-den-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/CRUD/Anh-tuyet-dep-ve-nam-it-nguoi-biet-den-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/CRUD/StudentManage.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/CRUD/StudentManage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/CRUD/addStudent.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/CRUD/addStudent.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/CRUD/anh.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/CRUD/anh.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/CRUD/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/CRUD/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/CRUD/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/CRUD/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/CRUD/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/CRUD/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/CRUD/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/CRUD/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/CRUD/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/CRUD/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/CRUD/student.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/CRUD/student.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/CRUD/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/CRUD/update.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/CRUD/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/CRUD/user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/crud_manager/getValue.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/crud_manager/getValue.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/crud_manager/manager/crud.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/crud_manager/manager/crud.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/crud_manager/manager/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/crud_manager/manager/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/crud_manager/manager/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/crud_manager/manager/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/crud_manager/manager/editForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/crud_manager/manager/editForm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/crud_manager/manager/loadData.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/crud_manager/manager/loadData.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/studentsManager" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/studentsManager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/studentsManager/Student.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/studentsManager/Student.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/studentsManager/StudentsManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/studentsManager/StudentsManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/studentsManager/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/studentsManager/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/studentsManager/add_student.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/studentsManager/add_student.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/studentsManager/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/studentsManager/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/studentsManager/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/studentsManager/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/studentsManager/display.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/studentsManager/display.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/studentsManager/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/studentsManager/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/studentsManager/functionEdit.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/studentsManager/functionEdit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder/studentsManager/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled folder/studentsManager/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +170,20 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,7 +203,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
@@ -83,7 +252,18 @@
       <workItem from="1570373008532" duration="6100000" />
       <workItem from="1570409971912" duration="10551000" />
       <workItem from="1570453609120" duration="5067000" />
-      <workItem from="1570497213636" duration="2207000" />
+      <workItem from="1570497213636" duration="6181000" />
+      <workItem from="1570582918951" duration="19540000" />
+      <workItem from="1570631143869" duration="5217000" />
+      <workItem from="1570670377548" duration="7759000" />
+      <workItem from="1570696784274" duration="5783000" />
+      <workItem from="1570758819784" duration="975000" />
+      <workItem from="1570783001008" duration="487000" />
+      <workItem from="1570855201306" duration="329000" />
+      <workItem from="1570874304405" duration="376000" />
+      <workItem from="1570897201782" duration="88000" />
+      <workItem from="1570954953450" duration="299000" />
+      <workItem from="1570956572158" duration="11000" />
     </task>
     <servers />
   </component>

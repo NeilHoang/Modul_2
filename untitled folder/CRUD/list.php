@@ -22,7 +22,7 @@ $arr = json_decode($listStudent, true);
     <title>Document</title>
 </head>
 <body>
-<a href="index.php">Bach To Add</a>
+<a href="index.php" style="color: black">Bach To Add</a>
 <center>
     <table class="table table-hover table-dark">
         <?php
@@ -34,8 +34,8 @@ $arr = json_decode($listStudent, true);
                 <td><?php echo $arr[$i]["address"] ?></td>
                 <td><?php echo $arr[$i]["class"] ?></td>
                 <td><?php echo $arr[$i]["role"] ?></td>
-                <td><a href='delete.php?id=<?php echo $i ?> '>Delete</a></td>
-                <td><a href='edit.php?id=<?php echo $i ?>'>Edit</a></td>
+                <td><a href='delete.php?id=<?php echo $i ?> ' onclick="return confirm('You want to delete')">Delete</a></td>
+                <td><a href='edit.php?id=<?php echo $i ?>' onclick="return confirm('You want to edit')">Edit</a></td>
             </tr>
         <?php } ?>
     </table>

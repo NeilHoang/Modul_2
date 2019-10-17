@@ -35,7 +35,7 @@
 
         .title, .myButton {
             font-family: 'Berkshire Swash', cursive;
-            color: midnightblue;
+            color: #ed28e3;
         }
 
     </style>
@@ -60,15 +60,15 @@
 //            var_dump(isset($_GET["birthday"]));
                 $today = date("Y-m-d");
                 $diff = date_diff(date_create($dateOfBirth), date_create($today));
-                $day=$diff->format("%a");
+                $day = $diff->format("%a");
                 echo 'Tuổi của bạn là -> ' . $diff->format('%y') . "<br><br>";
-                echo "Số tuần bạn đã tồn tại là -> " .floor($day/7) . "<br>";
-                echo 'Số ngày bạn đã tồn tại 😌😌 -> ' .$day. "<br>";
+                echo "Số tuần bạn đã tồn tại là -> " . floor($day / 7) . "<br>";
+                echo 'Số ngày bạn đã tồn tại 😌😌 -> ' . $day . "<br>";
             } else {
                 echo "Không được để trống ô 'Nhập năm sinh' ";
             }
         ?>
-    </form> 
+    </form>
 </center>
 </body>
 </html>
