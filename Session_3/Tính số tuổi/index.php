@@ -30,12 +30,11 @@
             background-color: white;
             font-size: 16px;
             text-align: center;
-            font-family: 'Beirut';
         }
 
         .title, .myButton {
             font-family: 'Berkshire Swash', cursive;
-            color: #ed28e3;
+            color: #ff0b20;
         }
 
     </style>
@@ -53,7 +52,7 @@
             
             // Kiểm tra, nếu biến birthday đuợc khởi tạo thì hiển thị kết quả ra màn hình
             //......
-            // Nếu biến bỉthday chưa đuợc khởi tạo và có giá trị là NULL thì không hiển thị kêt qủa ra màn hình
+            // Nếu biến birthday chưa đuợc khởi tạo và có giá trị là NULL thì không hiển thị kết qủa ra màn hình
             
             if (isset($_GET["birthday"])) {
                 $dateOfBirth = $_GET["birthday"];
@@ -71,5 +70,4 @@
     </form>
 </center>
 </body>
-</html>
-
+</html>r

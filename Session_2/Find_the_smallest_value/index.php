@@ -1,18 +1,7 @@
 <?php
-$number = array(5,4,6,3,7,8,1,-1);
-
-class MinNumber {
-    function min($array) {
-        $min = $array[0];
-        $lenght = count($array);
-        for ($i = 0; $i < $lenght; $i ++ ) {
-            if ($min > $array[$i]) {
-                $min = $array[$i];
-            }
-        }
-        echo $min;
-    }
+$arr = [1,3,5,7];
+$avg = 0;
+$sum = 0;
+for($i = 0;$i<= count($arr);$i++){
+    echo count($arr);
 }
-$checkMin = new MinNumber();
-$checkMin ->min($number);
-?>

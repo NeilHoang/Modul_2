@@ -3,7 +3,7 @@
 class User
 {
     protected $name;
-    protected $address;
+    public $address;
     protected $phone;
     protected $role;
     

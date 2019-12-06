@@ -45,25 +45,26 @@ $listStudent = $students->getAll();
                     phone
                 </td>
             </tr>
-            <?php foreach ($listStudent as $key=>$value) {?>
+            <?php foreach ($listStudent as $key => $value) { ?>
                 <tr>
                     <td>
-                        <?php echo ++$key?>
+                        <?php echo ++$key ?>
                     </td>
                     <td>
-                        <?php echo $value->name?>
+                        <?php echo $value->name ?>
                     </td>
                     <td>
-                        <?php echo $value->age?>
+                        <?php echo $value->age ?>
                     </td>
                     <td>
                         <a href="CRUD/delete.php?id=<?php echo $value->id ?>" onclick="return confirm('hgfddgfbdff')">delete</a>
                     </td>
                     <td>
-                        <a href="CRUD/formEdit.php?id=<?php echo $value->id?>" onclick="return confirm('rhegfadASDGD')">edit</a>
+                        <a href="CRUD/formEdit.php?id=<?php echo $value->id ?>"
+                           onclick="return confirm('rhegfadASDGD')">edit</a>
                     </td>
                 </tr>
-            <?php }?>
+            <?php } ?>
         </table>
     </center>
 </form>

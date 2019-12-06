@@ -10,5 +10,5 @@ $max = $myArray[0][0];
             }
         }
     }
-    echo $max;
+    print $max;
 ?>

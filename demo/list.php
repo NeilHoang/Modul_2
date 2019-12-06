@@ -19,7 +19,7 @@ $students = $studentDB->getAll();
 <center>
 <table border="1">
     <tr>
-        <td><a href="index.php">Come Back</a></td>
+        <td><a href="index.php">Come Back</a></td>;
     </tr>
     <tr>
         <td>ID</td>

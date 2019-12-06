@@ -1,6 +1,6 @@
 <?php
 
-class StopWatch
+class wStopWatch
 {
     private $startTime;
     private $endTime;

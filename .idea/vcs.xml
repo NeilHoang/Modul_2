@@ -2,8 +2,13 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CLONEC1019I1/C1019I1-demo-oop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CLONEC1019I1/M2_SS3_PHP_Monk-eye" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CLONEC1019I1/M2_SS4_PHP_Monk-eye" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/M2_SS4_PHP_Monk-eye" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Session_7 Clean Code &amp; Refactoring/Refactoring/php-cleancode-refactoring-variable-extraction" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Session_7 Clean Code &amp; Refactoring/php-cleancode-refactoring-renaming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/clone/simple-registration" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/untitled folder/studentsManager" vcs="Git" />
   </component>
 </project>
